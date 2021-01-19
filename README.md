@@ -22,3 +22,11 @@
 ● Dataset: https://bit.ly/3i4rbWl
 
 ● What all business problems you can derive by exploring the data? 
+
+## Task_4
+● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+● As a security/defense analyst, try to find out the hot zone of terrorism.
+
+● Dataset: https://bit.ly/2TK5Xn5
+
+● What all security issues and insights you can derive by EDA?
