@@ -1,5 +1,8 @@
 # TSF-Internship-Tasks
 
+## The Sparks Foundation
+## Data Science and Business Analytics Intern
+
 ## TASK_1
 ● Prediction using Supervised ML
 ● Predict the percentage of an student based on the no. of study hours.
